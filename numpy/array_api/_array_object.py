@@ -31,6 +31,7 @@ from ._dtypes import (
     _dtype_categories,
 )
 
+
 from typing import TYPE_CHECKING, Optional, Tuple, Union, Any, SupportsIndex
 import types
 
